@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "Compliments": ["Great service!", "Excellent job!", "I love this!"],
+    "Product Information": [
+      "What is this product?",
+      "Can you describe this item?"
+    ],
+    "Order Status": ["Where is my order?", "Track my shipment."],
+    "Returns and Refunds": ["How do I return an item?", "Refund policy?"],
+    "Technical Support": ["My device isn't working.", "Error code 404."],
+    "General FAQs": ["What are your working hours?", "Contact details?"]
+  },
+  "responses": {
+    "Compliments": "Thanks for your kind words!",
+    "Product Information": "This product is a high-quality item available in multiple colors.",
+    "Order Status": "Your order is being processed. Track it using the tracking number.",
+    "Returns and Refunds": "You can return your item within 30 days for a full refund.",
+    "Technical Support": "Please restart your device or contact our tech support team.",
+    "General FAQs": "We are open from 9 AM to 9 PM daily."
+  }
+}

@@ -1,0 +1,22 @@
+Timestamp,Query,Category,Response,Sentiment 
+2025-01-22 12:00:00,Where is my order?,Order Status,Your order is being processed.,Neutral
+2025-01-22 15:29:56,"""where is my order?""",Order Status,Your order is being processed. Track it using the tracking number.,Neutral
+2025-01-22 15:41:09,i love this product ,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:41:35,My device isn't working.,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:42:09,error code 404,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:42:54,my devise isn't working.,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:44:27,My device isn't working.,Unmatched,,Neutral
+2025-01-22 15:49:48,Where is my order?,Order Status,Your order is being processed. Track it using the tracking number.,Neutral
+2025-01-22 15:50:05,Can you describe this item?,Product Information,This product is a high-quality item available in multiple colors.,Neutral
+2025-01-22 15:51:52,My device isn't working.,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:54:22,[A,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 15:54:50,My device isn't working.,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 16:00:11,What are your working hours?,General FAQs,We are open from 9 AM to 9 PM daily.,Neutral
+2025-01-22 16:00:31,contact details?,General FAQs,We are open from 9 AM to 9 PM daily.,Neutral
+2025-01-22 16:13:12,Your order is being processed. Track it using the tracking number.,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 16:13:30,"How do I return an item?"", ""Refund policy?",Returns and Refunds,You can return your item within 30 days for a full refund.,Neutral
+2025-01-22 16:13:37,exit ,Unmatched,"Sorry, I couldn't understand that.",Neutral
+2025-01-22 16:14:27,good,Unmatched,"Sorry, I couldn't understand that.",Positive
+2025-01-22 16:24:22,Great service!,Unmatched,"Sorry, I couldn't understand that.",Positive
+2025-01-22 16:24:47,Great service!,Unmatched,"Sorry, I couldn't understand that.",Positive
+2025-01-22 16:29:14,Great service!,Unmatched,"Sorry, I couldn't understand that.",Positive
